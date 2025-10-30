@@ -79,7 +79,7 @@ To explore the dashboard yourself:
 
 1. **Clone** this repository to your computer.  
    ```bash
-   h
+   https://github.com/yswnt01/BMW-Sales-Analysis-Dashboard-Power-BI-Project/blob/main/BMW%20Sales%20Dashboard.pbix
 2.  Install Power BI Desktop (if not already).
 Open the .pbix file in Power BI Desktop.
 3. Enjoy a fully interactive experience with ready-to-use visuals and insights!
