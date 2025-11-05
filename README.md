@@ -90,3 +90,10 @@ Open the .pbix file in Power BI Desktop.
 
 The **BMW Sales Analysis Dashboard** isn’t just a visualization — it’s a **data story** that blends analytics, design, and decision-making.  
 It reflects my growing passion for using **Power BI** to transform complex datasets into *simple, actionable insights.*
+
+---
+
+
+
+👨‍💻 Author  
+**Yashwant Gupta**
